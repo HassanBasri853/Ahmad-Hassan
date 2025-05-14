@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_chat
 from streamlit_chat import message
 from groq import Groq
 import os
