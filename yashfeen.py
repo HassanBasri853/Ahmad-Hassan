@@ -1,5 +1,5 @@
 import streamlit as st
-imoprt streamlit_chat
+import streamlit_chat
 from streamlit_chat import message
 from groq import Groq
 import os
