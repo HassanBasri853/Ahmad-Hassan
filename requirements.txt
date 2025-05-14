@@ -1,0 +1,7 @@
+streamlit
+streamlit_chat
+requests
+groq
+pydub
+SpeechRecognition
+python-dotenv
